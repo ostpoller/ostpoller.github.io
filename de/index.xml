@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Ostpoller</title>
-    <link>https://localhost:1313/de/</link>
+    <link>https://ostpoller.github.io/de/</link>
     <description>Recent content on Ostpoller</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 01 Jan 2021 16:00:00 +0100</lastBuildDate>
     
-        <atom:link href="https://localhost:1313/de/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ostpoller.github.io/de/index.xml" rel="self" type="application/rss+xml" />
     
     
     

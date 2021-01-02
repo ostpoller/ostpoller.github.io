@@ -3,143 +3,143 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://localhost:1313/en/</loc>
+    <loc>https://ostpoller.github.io/en/</loc>
     <lastmod>2021-01-01T16:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://localhost:1313/de/"
+                href="https://ostpoller.github.io/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://localhost:1313/en/"
+                href="https://ostpoller.github.io/en/"
                 />
   </url>
   
   <url>
-    <loc>https://localhost:1313/en/gallery/ben/</loc>
+    <loc>https://ostpoller.github.io/en/gallery/ben/</loc>
     <lastmod>2021-01-01T16:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://localhost:1313/de/gallery/ben/"
+                href="https://ostpoller.github.io/de/gallery/ben/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://localhost:1313/en/gallery/ben/"
+                href="https://ostpoller.github.io/en/gallery/ben/"
                 />
   </url>
   
   <url>
-    <loc>https://localhost:1313/en/gallery/</loc>
+    <loc>https://ostpoller.github.io/en/gallery/</loc>
     <lastmod>2021-01-01T16:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://localhost:1313/de/gallery/"
+                href="https://ostpoller.github.io/de/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://localhost:1313/en/gallery/"
+                href="https://ostpoller.github.io/en/gallery/"
                 />
   </url>
   
   <url>
-    <loc>https://localhost:1313/en/series/ostpoller/</loc>
+    <loc>https://ostpoller.github.io/en/series/ostpoller/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://localhost:1313/en/posts/20210101_ostpoller_meta/</loc>
+    <loc>https://ostpoller.github.io/en/posts/20210101_ostpoller_meta/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://localhost:1313/en/posts/</loc>
+    <loc>https://ostpoller.github.io/en/posts/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://localhost:1313/de/posts/"
+                href="https://ostpoller.github.io/de/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://localhost:1313/en/posts/"
+                href="https://ostpoller.github.io/en/posts/"
                 />
   </url>
   
   <url>
-    <loc>https://localhost:1313/en/series/</loc>
+    <loc>https://ostpoller.github.io/en/series/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://localhost:1313/de/series/"
+                href="https://ostpoller.github.io/de/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://localhost:1313/en/series/"
+                href="https://ostpoller.github.io/en/series/"
                 />
   </url>
   
   <url>
-    <loc>https://localhost:1313/en/about/</loc>
+    <loc>https://ostpoller.github.io/en/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://localhost:1313/de/about/"
+                href="https://ostpoller.github.io/de/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://localhost:1313/en/about/"
+                href="https://ostpoller.github.io/en/about/"
                 />
   </url>
   
   <url>
-    <loc>https://localhost:1313/en/archive/</loc>
+    <loc>https://ostpoller.github.io/en/archive/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://localhost:1313/de/archive/"
+                href="https://ostpoller.github.io/de/archive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://localhost:1313/en/archive/"
+                href="https://ostpoller.github.io/en/archive/"
                 />
   </url>
   
   <url>
-    <loc>https://localhost:1313/en/categories/</loc>
+    <loc>https://ostpoller.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://localhost:1313/de/categories/"
+                href="https://ostpoller.github.io/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://localhost:1313/en/categories/"
+                href="https://ostpoller.github.io/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://localhost:1313/en/tags/</loc>
+    <loc>https://ostpoller.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://localhost:1313/de/tags/"
+                href="https://ostpoller.github.io/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://localhost:1313/en/tags/"
+                href="https://ostpoller.github.io/en/tags/"
                 />
   </url>
   
