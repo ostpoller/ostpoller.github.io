@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Galleries on Ostpoller</title>
-    <link>https://ostpoller.github.io/de/gallery/</link>
+    <link>https://localhost:1313/de/gallery/</link>
     <description>Recent content in Galleries on Ostpoller</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 01 Jan 2021 16:00:00 +0100</lastBuildDate>
     
-        <atom:link href="https://ostpoller.github.io/de/gallery/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://localhost:1313/de/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,16 +24,16 @@
       
       <item>
         <title>Bens Graffiti</title>
-        <link>https://ostpoller.github.io/de/gallery/ben/</link>
+        <link>https://localhost:1313/de/gallery/ben/</link>
         <pubDate>Fri, 01 Jan 2021 16:00:00 +0100</pubDate>
         <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
         <atom:modified>Fri, 01 Jan 2021 16:00:00 +0100</atom:modified>
-        <guid>https://ostpoller.github.io/de/gallery/ben/</guid>
+        <guid>https://localhost:1313/de/gallery/ben/</guid>
         <description>Ben zeichnet mit Stift auf Papier. Die zeichnungen wurden anschließend eingescannt &amp;hellip;
 Copyright ©️ Ben Westphal, 2021</description>
         
         <dc:creator>Philipp Westphal</dc:creator>
-        <media:content url="https://ostpoller.github.io/gallery/ben/graffiti.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://localhost:1313/gallery/ben/graffiti.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
