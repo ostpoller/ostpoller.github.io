@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on Ostpoller</title>
-    <link>http://localhost:1313/en/series/</link>
+    <link>https://ostpoller.github.io/en/series/</link>
     <description>Recent content in Series on Ostpoller</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/en/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ostpoller.github.io/en/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>ostpoller</title>
-        <link>http://localhost:1313/en/series/ostpoller/</link>
+        <link>https://ostpoller.github.io/en/series/ostpoller/</link>
         <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
         <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
         
-        <guid>http://localhost:1313/en/series/ostpoller/</guid>
+        <guid>https://ostpoller.github.io/en/series/ostpoller/</guid>
         <description></description>
         
         <dc:creator>Philipp Westphal</dc:creator>

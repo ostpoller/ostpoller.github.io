@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Ostpoller</title>
-    <link>http://localhost:1313/de/tags/</link>
+    <link>https://ostpoller.github.io/de/tags/</link>
     <description>Recent content in Tags on Ostpoller</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
@@ -15,7 +15,7 @@
     <webMaster>philipp.westphal@gmx.net (Philipp Westphal)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="http://localhost:1313/de/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ostpoller.github.io/de/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -23,11 +23,11 @@
       
       <item>
         <title>index</title>
-        <link>http://localhost:1313/de/tags/index/</link>
+        <link>https://ostpoller.github.io/de/tags/index/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
         
-        <guid>http://localhost:1313/de/tags/index/</guid>
+        <guid>https://ostpoller.github.io/de/tags/index/</guid>
         <description></description>
         
         <dc:creator>Philipp Westphal</dc:creator>

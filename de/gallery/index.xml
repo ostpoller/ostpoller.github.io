@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Galleries on Ostpoller</title>
-    <link>http://localhost:1313/de/gallery/</link>
+    <link>https://ostpoller.github.io/de/gallery/</link>
     <description>Recent content in Galleries on Ostpoller</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 30 Dec 2020 10:20:16 +0100</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/de/gallery/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ostpoller.github.io/de/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>Ben</title>
-        <link>http://localhost:1313/de/gallery/ben/</link>
+        <link>https://ostpoller.github.io/de/gallery/ben/</link>
         <pubDate>Wed, 30 Dec 2020 10:20:16 +0100</pubDate>
         <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
         <atom:modified>Wed, 30 Dec 2020 10:20:16 +0100</atom:modified>
-        <guid>http://localhost:1313/de/gallery/ben/</guid>
+        <guid>https://ostpoller.github.io/de/gallery/ben/</guid>
         <description></description>
         
         <dc:creator>Philipp Westphal</dc:creator>
