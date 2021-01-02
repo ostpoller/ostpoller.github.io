@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Posts on Ostpoller</title>
+    <link>http://localhost:1313/en/posts/</link>
+    <description>Recent content in Posts on Ostpoller</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>philipp.westphal@gmx.net (Philipp Westphal)</managingEditor>
+    <webMaster>philipp.westphal@gmx.net (Philipp Westphal)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Ostpoller Meta</title>
+        <link>http://localhost:1313/en/posts/20210101_ostpoller_meta/</link>
+        <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+        <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
+        <atom:modified>Fri, 01 Jan 2021 00:00:00 +0000</atom:modified>
+        <guid>http://localhost:1313/en/posts/20210101_ostpoller_meta/</guid>
+        <description>In the past I have used several systems to keep notes for my references. I ended up in a mess because I generated and kept notes in various ways for my private projects as well as for my work projects - often overlapping, often in systems that could not easily exchange data. Further, the company I work for does not allow data-synchronization between systems we use at work and our private devices regardless whether the data is classified or not.</description>
+        
+        <dc:creator>Philipp Westphal</dc:creator>
+        <media:content url="http://localhost:1313images/ostpoller/logo-192.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>ostpoller</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
