@@ -14,7 +14,7 @@
     <managingEditor>philipp.westphal@gmx.net (Philipp Westphal)</managingEditor>
     <webMaster>philipp.westphal@gmx.net (Philipp Westphal)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Jan 2021 15:00:00 +0100</lastBuildDate>
     
         <atom:link href="https://ostpoller.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,9 +23,45 @@
 
       
       <item>
+        <title>git</title>
+        <link>https://ostpoller.github.io/en/tags/git/</link>
+        <pubDate>Sun, 03 Jan 2021 15:00:00 +0100</pubDate>
+        <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
+        
+        <guid>https://ostpoller.github.io/en/tags/git/</guid>
+        <description></description>
+        
+        <dc:creator>Philipp Westphal</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>github</title>
+        <link>https://ostpoller.github.io/en/tags/github/</link>
+        <pubDate>Sun, 03 Jan 2021 15:00:00 +0100</pubDate>
+        <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
+        
+        <guid>https://ostpoller.github.io/en/tags/github/</guid>
+        <description></description>
+        
+        <dc:creator>Philipp Westphal</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>pycharm</title>
         <link>https://ostpoller.github.io/en/tags/pycharm/</link>
-        <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 03 Jan 2021 13:00:00 +0100</pubDate>
         <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
         
         <guid>https://ostpoller.github.io/en/tags/pycharm/</guid>
@@ -43,7 +79,7 @@
       <item>
         <title>rpi</title>
         <link>https://ostpoller.github.io/en/tags/rpi/</link>
-        <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 03 Jan 2021 13:00:00 +0100</pubDate>
         <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
         
         <guid>https://ostpoller.github.io/en/tags/rpi/</guid>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>github on Ostpoller</title>
+    <link>https://ostpoller.github.io/en/tags/github/</link>
+    <description>Recent content in github on Ostpoller</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>philipp.westphal@gmx.net (Philipp Westphal)</managingEditor>
+    <webMaster>philipp.westphal@gmx.net (Philipp Westphal)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 03 Jan 2021 15:00:00 +0100</lastBuildDate>
+    
+        <atom:link href="https://ostpoller.github.io/en/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Renaming Git Branches</title>
+        <link>https://ostpoller.github.io/en/posts/20210103_renaming_git_branch/</link>
+        <pubDate>Sun, 03 Jan 2021 15:00:00 +0100</pubDate>
+        <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
+        <atom:modified>Sun, 03 Jan 2021 15:00:00 +0100</atom:modified>
+        <guid>https://ostpoller.github.io/en/posts/20210103_renaming_git_branch/</guid>
+        <description>The following commands show how to rename the &amp;ldquo;master&amp;rdquo; branch to &amp;ldquo;main&amp;rdquo;. This is only an example and is equally valid for any other branch. Just replace the names &amp;ldquo;master&amp;rdquo; and &amp;ldquo;main&amp;rdquo; accordingly.
+1 2 3 4 5 6 7 8  # cd into the local repo: $ cd /path/to/local/repo # switch to the &amp;#34;master&amp;#34; branch: $ git checkout master # rename it to &amp;#34;main&amp;#34;: $ git branch -m master main   The previous code renames the &amp;ldquo;master&amp;rdquo; branch in your local repo.</description>
+        
+        <dc:creator>Philipp Westphal</dc:creator>
+        <media:content url="https://ostpoller.github.io/images/git/git.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>git</category>
+            
+          
+            
+              <category>github</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

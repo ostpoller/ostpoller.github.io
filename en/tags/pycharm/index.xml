@@ -14,7 +14,7 @@
     <managingEditor>philipp.westphal@gmx.net (Philipp Westphal)</managingEditor>
     <webMaster>philipp.westphal@gmx.net (Philipp Westphal)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Jan 2021 13:00:00 +0100</lastBuildDate>
     
         <atom:link href="https://ostpoller.github.io/en/tags/pycharm/index.xml" rel="self" type="application/rss+xml" />
     
@@ -25,9 +25,9 @@
       <item>
         <title>Fixing PyCharm Terminal on RPi4</title>
         <link>https://ostpoller.github.io/en/posts/20210103_fixing-pycharm-on-rpi4/</link>
-        <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 03 Jan 2021 13:00:00 +0100</pubDate>
         <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
-        <atom:modified>Sun, 03 Jan 2021 00:00:00 +0000</atom:modified>
+        <atom:modified>Sun, 03 Jan 2021 13:00:00 +0100</atom:modified>
         <guid>https://ostpoller.github.io/en/posts/20210103_fixing-pycharm-on-rpi4/</guid>
         <description>The terminal in PyCharm Community Edition 2020.1 throws a &amp;ldquo;Cannot open local terminal&amp;rdquo; error. To fix the error, re-compile libpty.so for the 64bit ARM architecture and the Raspbian &amp;ldquo;Buster&amp;rdquo; operating system.
 /opt/pycharm-community-2020.1/lib/pty4j-native/linux/x86/libpty.so
