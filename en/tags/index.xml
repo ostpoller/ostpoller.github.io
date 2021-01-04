@@ -14,13 +14,67 @@
     <managingEditor>philipp.westphal@gmx.net (Philipp Westphal)</managingEditor>
     <webMaster>philipp.westphal@gmx.net (Philipp Westphal)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 04 Jan 2021 12:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 04 Jan 2021 14:00:00 +0100</lastBuildDate>
     
         <atom:link href="https://ostpoller.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>chrome</title>
+        <link>https://ostpoller.github.io/en/tags/chrome/</link>
+        <pubDate>Mon, 04 Jan 2021 14:00:00 +0100</pubDate>
+        <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
+        
+        <guid>https://ostpoller.github.io/en/tags/chrome/</guid>
+        <description></description>
+        
+        <dc:creator>Philipp Westphal</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>emojis</title>
+        <link>https://ostpoller.github.io/en/tags/emojis/</link>
+        <pubDate>Mon, 04 Jan 2021 14:00:00 +0100</pubDate>
+        <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
+        
+        <guid>https://ostpoller.github.io/en/tags/emojis/</guid>
+        <description></description>
+        
+        <dc:creator>Philipp Westphal</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>fonts</title>
+        <link>https://ostpoller.github.io/en/tags/fonts/</link>
+        <pubDate>Mon, 04 Jan 2021 14:00:00 +0100</pubDate>
+        <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
+        
+        <guid>https://ostpoller.github.io/en/tags/fonts/</guid>
+        <description></description>
+        
+        <dc:creator>Philipp Westphal</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>hugo</title>

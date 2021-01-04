@@ -14,7 +14,7 @@
     <managingEditor>philipp.westphal@gmx.net (Philipp Westphal)</managingEditor>
     <webMaster>philipp.westphal@gmx.net (Philipp Westphal)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 04 Jan 2021 12:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 04 Jan 2021 14:00:00 +0100</lastBuildDate>
     
         <atom:link href="https://ostpoller.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -42,6 +42,46 @@
         
       
 
+      
+      <item>
+        <title>Emojis in Google Chrome</title>
+        <link>https://ostpoller.github.io/en/posts/20210104_emojis_in_chrome/</link>
+        <pubDate>Mon, 04 Jan 2021 14:00:00 +0100</pubDate>
+        <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
+        <atom:modified>Mon, 04 Jan 2021 14:00:00 +0100</atom:modified>
+        <guid>https://ostpoller.github.io/en/posts/20210104_emojis_in_chrome/</guid>
+        <description>1  $ sudo apt reinstall fonts-noto-color-emoji   Restart Chrome after installing the font.</description>
+        
+        <dc:creator>Philipp Westphal</dc:creator>
+        <media:content url="https://ostpoller.github.io/images/emojis/hello.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>emojis</category>
+            
+          
+            
+              <category>chrome</category>
+            
+          
+            
+              <category>fonts</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
       
       <item>
         <title>Build &amp; Preview Static Web Site with Hugo</title>
