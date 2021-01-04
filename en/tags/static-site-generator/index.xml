@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>ostpoller on Ostpoller</title>
-    <link>https://ostpoller.github.io/en/series/ostpoller/</link>
-    <description>Recent content in ostpoller on Ostpoller</description>
+    <title>static site generator on Ostpoller</title>
+    <link>https://ostpoller.github.io/en/tags/static-site-generator/</link>
+    <description>Recent content in static site generator on Ostpoller</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>philipp.westphal@gmx.net (Philipp Westphal)</managingEditor>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 04 Jan 2021 12:00:00 +0100</lastBuildDate>
     
-        <atom:link href="https://ostpoller.github.io/en/series/ostpoller/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ostpoller.github.io/en/tags/static-site-generator/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -87,38 +87,6 @@ Installing Hugo on Linux is as simple as dowloading a binary in a tarball, extra
           
             
               <category>static site generator</category>
-            
-          
-        
-        
-          
-            
-          
-        
-        
-          
-            
-              <category>ostpoller</category>
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Ostpoller Meta</title>
-        <link>https://ostpoller.github.io/en/posts/20210101_ostpoller-meta/</link>
-        <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-        <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
-        <atom:modified>Fri, 01 Jan 2021 00:00:00 +0000</atom:modified>
-        <guid>https://ostpoller.github.io/en/posts/20210101_ostpoller-meta/</guid>
-        <description>In the past I have used several systems to keep notes for my references. I ended up in a mess because I generated and kept notes in various ways for my private projects as well as for my work projects - often overlapping, often in systems that could not easily exchange data. Further, the company I work for does not allow data-synchronization between systems we use at work and our private devices regardless whether the data is classified or not.</description>
-        
-        <dc:creator>Philipp Westphal</dc:creator>
-        <media:content url="https://ostpoller.github.io/images/ostpoller/logo-192-blue-black.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
             
           
         

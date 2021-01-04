@@ -14,13 +14,49 @@
     <managingEditor>philipp.westphal@gmx.net (Philipp Westphal)</managingEditor>
     <webMaster>philipp.westphal@gmx.net (Philipp Westphal)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 03 Jan 2021 15:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 04 Jan 2021 12:00:00 +0100</lastBuildDate>
     
         <atom:link href="https://ostpoller.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>hugo</title>
+        <link>https://ostpoller.github.io/en/tags/hugo/</link>
+        <pubDate>Mon, 04 Jan 2021 12:00:00 +0100</pubDate>
+        <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
+        
+        <guid>https://ostpoller.github.io/en/tags/hugo/</guid>
+        <description></description>
+        
+        <dc:creator>Philipp Westphal</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>static site generator</title>
+        <link>https://ostpoller.github.io/en/tags/static-site-generator/</link>
+        <pubDate>Mon, 04 Jan 2021 12:00:00 +0100</pubDate>
+        <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
+        
+        <guid>https://ostpoller.github.io/en/tags/static-site-generator/</guid>
+        <description></description>
+        
+        <dc:creator>Philipp Westphal</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>git</title>
