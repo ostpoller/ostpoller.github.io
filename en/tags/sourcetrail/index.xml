@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>sourcetrail on Ostpoller</title>
+    <link>https://ostpoller.github.io/en/tags/sourcetrail/</link>
+    <description>Recent content in sourcetrail on Ostpoller</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>philipp.westphal@gmx.net (Philipp Westphal)</managingEditor>
+    <webMaster>philipp.westphal@gmx.net (Philipp Westphal)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 05 Jan 2021 13:00:00 +0100</lastBuildDate>
+    
+        <atom:link href="https://ostpoller.github.io/en/tags/sourcetrail/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Sourcetrail - Source Code Inspection and Visualization</title>
+        <link>https://ostpoller.github.io/en/posts/20210105_sourcetrail/</link>
+        <pubDate>Tue, 05 Jan 2021 13:00:00 +0100</pubDate>
+        <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
+        <atom:modified>Tue, 05 Jan 2021 13:00:00 +0100</atom:modified>
+        <guid>https://ostpoller.github.io/en/posts/20210105_sourcetrail/</guid>
+        <description>Installation Select the link for your version and target platform from Github CoatiSoftare Sourcetrail, download extract it and run install.sh:
+1 2 3 4 5  $ cd ~/Downloads $ wget https://github.com/CoatiSoftware/Sourcetrail/releases/download/2020.2.43/Sourcetrail_2020_2_43_Linux_64bit.tar.gz $ tar -xvf Sourcetrail_2020_2_43_Linux_64bit.tar.gz $ cd Sourcetrail $ sudo ./install.sh   This will install Sourcetrail to /opt/sourcetrail/ and makes the command sourcetrail to start the application available via /usr/bin/sourcetrail
+1 2 3 4  $ sourcetrail 12:52:36 | LogManager.</description>
+        
+        <dc:creator>Philipp Westphal</dc:creator>
+        <media:content url="https://ostpoller.github.io/images/appicons/sourcetrail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>sourcetrail</category>
+            
+          
+        
+        
+          
+            
+              <category>code visualization</category>
+            
+          
+            
+              <category>code exploration</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
