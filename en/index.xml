@@ -68,11 +68,7 @@
         
           
             
-              <category>code visualization</category>
-            
-          
-            
-              <category>code exploration</category>
+              <category>code inspection</category>
             
           
         
@@ -303,12 +299,12 @@ a natively compiled one:
         
           
             
-          
-        
-        
-          
+              <category>ostpoller meta</category>
             
-              <category>ostpoller</category>
+          
+        
+        
+          
             
           
         

@@ -33,12 +33,7 @@
   </url>
   
   <url>
-    <loc>https://ostpoller.github.io/en/categories/code-exploration/</loc>
-    <lastmod>2021-01-05T13:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ostpoller.github.io/en/categories/code-visualization/</loc>
+    <loc>https://ostpoller.github.io/en/categories/code-inspection/</loc>
     <lastmod>2021-01-05T13:00:00+01:00</lastmod>
   </url>
   
@@ -204,6 +199,11 @@
   
   <url>
     <loc>https://ostpoller.github.io/en/posts/20210101_ostpoller-meta/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ostpoller.github.io/en/categories/ostpoller-meta/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
