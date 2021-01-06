@@ -59,12 +59,48 @@
       </item>
       
       <item>
+        <title>jamstack</title>
+        <link>https://ostpoller.github.io/en/categories/jamstack/</link>
+        <pubDate>Mon, 04 Jan 2021 12:00:00 +0100</pubDate>
+        <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
+        
+        <guid>https://ostpoller.github.io/en/categories/jamstack/</guid>
+        <description></description>
+        
+        <dc:creator>Philipp Westphal</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>ostpoller meta</title>
         <link>https://ostpoller.github.io/en/categories/ostpoller-meta/</link>
-        <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 04 Jan 2021 12:00:00 +0100</pubDate>
         <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
         
         <guid>https://ostpoller.github.io/en/categories/ostpoller-meta/</guid>
+        <description></description>
+        
+        <dc:creator>Philipp Westphal</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>static site generator</title>
+        <link>https://ostpoller.github.io/en/categories/static-site-generator/</link>
+        <pubDate>Mon, 04 Jan 2021 12:00:00 +0100</pubDate>
+        <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
+        
+        <guid>https://ostpoller.github.io/en/categories/static-site-generator/</guid>
         <description></description>
         
         <dc:creator>Philipp Westphal</dc:creator>

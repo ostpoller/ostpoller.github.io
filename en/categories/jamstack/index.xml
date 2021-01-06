@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>ostpoller on Ostpoller</title>
-    <link>https://ostpoller.github.io/en/series/ostpoller/</link>
-    <description>Recent content in ostpoller on Ostpoller</description>
+    <title>jamstack on Ostpoller</title>
+    <link>https://ostpoller.github.io/en/categories/jamstack/</link>
+    <description>Recent content in jamstack on Ostpoller</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>philipp.westphal@gmx.net (Philipp Westphal)</managingEditor>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 04 Jan 2021 12:00:00 +0100</lastBuildDate>
     
-        <atom:link href="https://ostpoller.github.io/en/series/ostpoller/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ostpoller.github.io/en/categories/jamstack/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -50,12 +50,20 @@
         
           
             
-          
-        
-        
+              <category>ostpoller meta</category>
+            
           
             
-              <category>ostpoller</category>
+              <category>static site generator</category>
+            
+          
+            
+              <category>jamstack</category>
+            
+          
+        
+        
+          
             
           
         
@@ -93,12 +101,20 @@ Installing Hugo on Linux is as simple as dowloading a binary in a tarball, extra
         
           
             
-          
-        
-        
+              <category>ostpoller meta</category>
+            
           
             
-              <category>ostpoller</category>
+              <category>static site generator</category>
+            
+          
+            
+              <category>jamstack</category>
+            
+          
+        
+        
+          
             
           
         

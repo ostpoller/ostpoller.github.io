@@ -50,12 +50,20 @@
         
           
             
-          
-        
-        
+              <category>ostpoller meta</category>
+            
           
             
-              <category>ostpoller</category>
+              <category>static site generator</category>
+            
+          
+            
+              <category>jamstack</category>
+            
+          
+        
+        
+          
             
           
         
@@ -93,12 +101,20 @@ Installing Hugo on Linux is as simple as dowloading a binary in a tarball, extra
         
           
             
-          
-        
-        
+              <category>ostpoller meta</category>
+            
           
             
-              <category>ostpoller</category>
+              <category>static site generator</category>
+            
+          
+            
+              <category>jamstack</category>
+            
+          
+        
+        
+          
             
           
         
