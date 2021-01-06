@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://ostpoller.github.io/en/</loc>
-    <lastmod>2021-01-05T13:00:00+01:00</lastmod>
+    <lastmod>2021-01-06T12:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -18,8 +18,13 @@
   </url>
   
   <url>
+    <loc>https://ostpoller.github.io/en/posts/20210106_python_class_template/</loc>
+    <lastmod>2021-01-06T12:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ostpoller.github.io/en/categories/</loc>
-    <lastmod>2021-01-05T13:00:00+01:00</lastmod>
+    <lastmod>2021-01-06T12:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -33,13 +38,13 @@
   </url>
   
   <url>
-    <loc>https://ostpoller.github.io/en/categories/code-inspection/</loc>
-    <lastmod>2021-01-05T13:00:00+01:00</lastmod>
+    <loc>https://ostpoller.github.io/en/tags/class/</loc>
+    <lastmod>2021-01-06T12:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://ostpoller.github.io/en/posts/</loc>
-    <lastmod>2021-01-05T13:00:00+01:00</lastmod>
+    <lastmod>2021-01-06T12:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -53,18 +58,18 @@
   </url>
   
   <url>
-    <loc>https://ostpoller.github.io/en/tags/sourcetrail/</loc>
-    <lastmod>2021-01-05T13:00:00+01:00</lastmod>
+    <loc>https://ostpoller.github.io/en/tags/python/</loc>
+    <lastmod>2021-01-06T12:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ostpoller.github.io/en/posts/20210105_sourcetrail/</loc>
-    <lastmod>2021-01-05T13:00:00+01:00</lastmod>
+    <loc>https://ostpoller.github.io/en/categories/python-snippets/</loc>
+    <lastmod>2021-01-06T12:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://ostpoller.github.io/en/tags/</loc>
-    <lastmod>2021-01-05T13:00:00+01:00</lastmod>
+    <lastmod>2021-01-06T12:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -75,6 +80,21 @@
                 hreflang="en"
                 href="https://ostpoller.github.io/en/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://ostpoller.github.io/en/categories/code-inspection/</loc>
+    <lastmod>2021-01-05T13:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ostpoller.github.io/en/tags/sourcetrail/</loc>
+    <lastmod>2021-01-05T13:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ostpoller.github.io/en/posts/20210105_sourcetrail/</loc>
+    <lastmod>2021-01-05T13:00:00+01:00</lastmod>
   </url>
   
   <url>

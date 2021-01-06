@@ -14,13 +14,31 @@
     <managingEditor>philipp.westphal@gmx.net (Philipp Westphal)</managingEditor>
     <webMaster>philipp.westphal@gmx.net (Philipp Westphal)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 05 Jan 2021 13:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jan 2021 12:00:00 +0100</lastBuildDate>
     
         <atom:link href="https://ostpoller.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>python snippets</title>
+        <link>https://ostpoller.github.io/en/categories/python-snippets/</link>
+        <pubDate>Wed, 06 Jan 2021 12:00:00 +0100</pubDate>
+        <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
+        
+        <guid>https://ostpoller.github.io/en/categories/python-snippets/</guid>
+        <description></description>
+        
+        <dc:creator>Philipp Westphal</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>code inspection</title>
