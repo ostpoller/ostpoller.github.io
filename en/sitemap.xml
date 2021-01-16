@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://ostpoller.github.io/en/</loc>
-    <lastmod>2021-01-06T12:00:00+01:00</lastmod>
+    <lastmod>2021-01-16T15:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -18,13 +18,13 @@
   </url>
   
   <url>
-    <loc>https://ostpoller.github.io/en/posts/20210106_python_class_template/</loc>
-    <lastmod>2021-01-06T12:00:00+01:00</lastmod>
+    <loc>https://ostpoller.github.io/en/posts/20210116_redis-py_pubsub/</loc>
+    <lastmod>2021-01-16T15:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://ostpoller.github.io/en/categories/</loc>
-    <lastmod>2021-01-06T12:00:00+01:00</lastmod>
+    <lastmod>2021-01-16T15:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -38,13 +38,8 @@
   </url>
   
   <url>
-    <loc>https://ostpoller.github.io/en/tags/class/</loc>
-    <lastmod>2021-01-06T12:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ostpoller.github.io/en/posts/</loc>
-    <lastmod>2021-01-06T12:00:00+01:00</lastmod>
+    <lastmod>2021-01-16T15:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -58,18 +53,23 @@
   </url>
   
   <url>
-    <loc>https://ostpoller.github.io/en/tags/python/</loc>
-    <lastmod>2021-01-06T12:00:00+01:00</lastmod>
+    <loc>https://ostpoller.github.io/en/categories/python-snippets/</loc>
+    <lastmod>2021-01-16T15:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ostpoller.github.io/en/categories/python-snippets/</loc>
-    <lastmod>2021-01-06T12:00:00+01:00</lastmod>
+    <loc>https://ostpoller.github.io/en/tags/redis/</loc>
+    <lastmod>2021-01-16T15:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ostpoller.github.io/en/tags/redis-py/</loc>
+    <lastmod>2021-01-16T15:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://ostpoller.github.io/en/tags/</loc>
-    <lastmod>2021-01-06T12:00:00+01:00</lastmod>
+    <lastmod>2021-01-16T15:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -80,6 +80,41 @@
                 hreflang="en"
                 href="https://ostpoller.github.io/en/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://ostpoller.github.io/en/tags/emacs/</loc>
+    <lastmod>2021-01-13T15:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ostpoller.github.io/en/posts/20210113_emacs/</loc>
+    <lastmod>2021-01-13T15:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ostpoller.github.io/en/tags/python/</loc>
+    <lastmod>2021-01-13T10:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ostpoller.github.io/en/posts/20210113_python_subprocess/</loc>
+    <lastmod>2021-01-13T10:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ostpoller.github.io/en/tags/subprocess/</loc>
+    <lastmod>2021-01-13T10:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ostpoller.github.io/en/posts/20210106_python_class_template/</loc>
+    <lastmod>2021-01-06T12:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ostpoller.github.io/en/tags/class/</loc>
+    <lastmod>2021-01-06T12:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -104,6 +139,11 @@
   
   <url>
     <loc>https://ostpoller.github.io/en/tags/markdown/</loc>
+    <lastmod>2021-01-04T16:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ostpoller.github.io/en/categories/ostpoller-meta/</loc>
     <lastmod>2021-01-04T16:00:00+01:00</lastmod>
   </url>
   
@@ -139,11 +179,6 @@
   
   <url>
     <loc>https://ostpoller.github.io/en/categories/jamstack/</loc>
-    <lastmod>2021-01-04T12:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ostpoller.github.io/en/categories/ostpoller-meta/</loc>
     <lastmod>2021-01-04T12:00:00+01:00</lastmod>
   </url>
   

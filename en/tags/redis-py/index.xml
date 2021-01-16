@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>redis-py on Ostpoller</title>
+    <link>https://ostpoller.github.io/en/tags/redis-py/</link>
+    <description>Recent content in redis-py on Ostpoller</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>philipp.westphal@gmx.net (Philipp Westphal)</managingEditor>
+    <webMaster>philipp.westphal@gmx.net (Philipp Westphal)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 16 Jan 2021 15:00:00 +0100</lastBuildDate>
+    
+        <atom:link href="https://ostpoller.github.io/en/tags/redis-py/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>A Python Class Template</title>
+        <link>https://ostpoller.github.io/en/posts/20210116_redis-py_pubsub/</link>
+        <pubDate>Sat, 16 Jan 2021 15:00:00 +0100</pubDate>
+        <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
+        <atom:modified>Sat, 16 Jan 2021 15:00:00 +0100</atom:modified>
+        <guid>https://ostpoller.github.io/en/posts/20210116_redis-py_pubsub/</guid>
+        <description>Pre-requisites Redis Server Redis can be installed directly on the machine by following this
+installation guidelines by DigitalOcean.
+However, for the examples shown here, I run the Redis server in a Docker container.
+In case a system wide instance redis-server is running already shut it down first to avoid port conflicts:
+1  $ /etc/init.d/redis-server stop   1 2 3 4 5 6 7  FROMredis:5.0.9-alpineCOPY redis.conf /etc/redis.confRUN chmod 777 /etc/redis.</description>
+        
+        <dc:creator>Philipp Westphal</dc:creator>
+        <media:content url="https://ostpoller.github.io/images/appicons/redis-py.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>redis</category>
+            
+          
+            
+              <category>redis-py</category>
+            
+          
+        
+        
+          
+            
+              <category>python snippets</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

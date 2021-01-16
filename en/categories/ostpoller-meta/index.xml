@@ -14,13 +14,54 @@
     <managingEditor>philipp.westphal@gmx.net (Philipp Westphal)</managingEditor>
     <webMaster>philipp.westphal@gmx.net (Philipp Westphal)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 04 Jan 2021 12:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 04 Jan 2021 16:00:00 +0100</lastBuildDate>
     
         <atom:link href="https://ostpoller.github.io/en/categories/ostpoller-meta/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Syntax in Markdown Source Files for Hugo</title>
+        <link>https://ostpoller.github.io/en/posts/20210104_markdown_in_hugo/</link>
+        <pubDate>Mon, 04 Jan 2021 16:00:00 +0100</pubDate>
+        <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
+        <atom:modified>Mon, 04 Jan 2021 16:00:00 +0100</atom:modified>
+        <guid>https://ostpoller.github.io/en/posts/20210104_markdown_in_hugo/</guid>
+        <description>Text Boxes &amp;hellip; &amp;hellip; via Blockquote 1  &amp;gt; **_NOTE:_** The note content.    NOTE: The note content.
+ &amp;hellip; via Horizontal Lines 1 2 3 4 5  --- **_NOTE:_** It works with almost all markdown flavours (the below blank line matters). ---   NOTE:
+It works with almost all markdown flavours (the below blank line matters).
+&amp;hellip; via Bodyless Table 1 2  |![](/images/icons/info-96.png) | This is something I want you to notice.</description>
+        
+        <dc:creator>Philipp Westphal</dc:creator>
+        <media:content url="https://ostpoller.github.io/images/icons/markdown.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>hugo</category>
+            
+          
+            
+              <category>markdown</category>
+            
+          
+        
+        
+          
+            
+              <category>ostpoller meta</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
       
       <item>
         <title>Build &amp; Preview Static Web Site with Hugo</title>

@@ -14,7 +14,7 @@
     <managingEditor>philipp.westphal@gmx.net (Philipp Westphal)</managingEditor>
     <webMaster>philipp.westphal@gmx.net (Philipp Westphal)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 06 Jan 2021 12:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 16 Jan 2021 15:00:00 +0100</lastBuildDate>
     
         <atom:link href="https://ostpoller.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,12 +23,48 @@
 
       
       <item>
-        <title>class</title>
-        <link>https://ostpoller.github.io/en/tags/class/</link>
-        <pubDate>Wed, 06 Jan 2021 12:00:00 +0100</pubDate>
+        <title>redis</title>
+        <link>https://ostpoller.github.io/en/tags/redis/</link>
+        <pubDate>Sat, 16 Jan 2021 15:00:00 +0100</pubDate>
         <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
         
-        <guid>https://ostpoller.github.io/en/tags/class/</guid>
+        <guid>https://ostpoller.github.io/en/tags/redis/</guid>
+        <description></description>
+        
+        <dc:creator>Philipp Westphal</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>redis-py</title>
+        <link>https://ostpoller.github.io/en/tags/redis-py/</link>
+        <pubDate>Sat, 16 Jan 2021 15:00:00 +0100</pubDate>
+        <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
+        
+        <guid>https://ostpoller.github.io/en/tags/redis-py/</guid>
+        <description></description>
+        
+        <dc:creator>Philipp Westphal</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>emacs</title>
+        <link>https://ostpoller.github.io/en/tags/emacs/</link>
+        <pubDate>Wed, 13 Jan 2021 15:00:00 +0100</pubDate>
+        <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
+        
+        <guid>https://ostpoller.github.io/en/tags/emacs/</guid>
         <description></description>
         
         <dc:creator>Philipp Westphal</dc:creator>
@@ -43,10 +79,46 @@
       <item>
         <title>python</title>
         <link>https://ostpoller.github.io/en/tags/python/</link>
-        <pubDate>Wed, 06 Jan 2021 12:00:00 +0100</pubDate>
+        <pubDate>Wed, 13 Jan 2021 10:00:00 +0100</pubDate>
         <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
         
         <guid>https://ostpoller.github.io/en/tags/python/</guid>
+        <description></description>
+        
+        <dc:creator>Philipp Westphal</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>subprocess</title>
+        <link>https://ostpoller.github.io/en/tags/subprocess/</link>
+        <pubDate>Wed, 13 Jan 2021 10:00:00 +0100</pubDate>
+        <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
+        
+        <guid>https://ostpoller.github.io/en/tags/subprocess/</guid>
+        <description></description>
+        
+        <dc:creator>Philipp Westphal</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>class</title>
+        <link>https://ostpoller.github.io/en/tags/class/</link>
+        <pubDate>Wed, 06 Jan 2021 12:00:00 +0100</pubDate>
+        <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
+        
+        <guid>https://ostpoller.github.io/en/tags/class/</guid>
         <description></description>
         
         <dc:creator>Philipp Westphal</dc:creator>
