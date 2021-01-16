@@ -23,7 +23,7 @@
 
       
       <item>
-        <title>A Python Class Template</title>
+        <title>Pubsub with Redis &amp; Redis-py</title>
         <link>https://ostpoller.github.io/en/posts/20210116_redis-py_pubsub/</link>
         <pubDate>Sat, 16 Jan 2021 15:00:00 +0100</pubDate>
         <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
