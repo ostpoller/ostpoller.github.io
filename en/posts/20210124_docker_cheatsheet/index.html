@@ -1759,7 +1759,7 @@ $ docker image build --rm -t &lt;image_name&gt; .
 $ docker container run --rm -d  -p &lt;cport&gt;:&lt;hport&gt; --name &lt;container_name&gt; &lt;image_name&gt;       <span class="c1"># start in the background</span>
 $ docker container run --rm -it -p &lt;cport&gt;:&lt;hport&gt; --name &lt;container_name&gt; &lt;image_name&gt;       <span class="c1"># start interactive</span>
 $ docker container run --rm -it -p &lt;cport&gt;:&lt;hport&gt; --name &lt;container_name&gt; &lt;image_name&gt; bash  <span class="c1"># start interactive and get a bash prompt</span>
-$ <span class="c1"># TODO: with attaching a volume</span>
+$ docker container run --rm -p &lt;cport&gt;:&lt;hport&gt; -v &lt;hpath&gt;:&lt;abs_cpath&gt; --name &lt;container_name&gt; &lt;image_name&gt;
 </code></pre></td></tr></table>
 </div>
 </div><h4 id="enter-a-running-container-interactively">Enter a Running Container Interactively</h4>
@@ -1793,7 +1793,7 @@ services:
     ports:
       - &quot;&lt;cport&gt;:&lt;hport&gt;&quot;
     volumes:
-      - &lt;rel_hpath&gt;:&lt;abs_cpath&gt;  # a bind volume to the local filesystem
+      - &lt;hpath&gt;:&lt;abs_cpath&gt;  # a bind volume to the local filesystem
 	environment:
       - &lt;name&gt;=&lt;value&gt;
     command: &lt;command arg&gt;
@@ -1806,10 +1806,12 @@ services:
 <pre class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
+</span><span class="lnt">4
 </span></code></pre></td>
 <td class="lntd">
 <pre class="chroma"><code class="language-bash" data-lang="bash">$ docker-compose build
 $ docker-compose up <span class="o">[</span>--build<span class="o">]</span> <span class="o">[</span>&lt;service_name&gt;<span class="o">]</span> <span class="o">[</span>&lt;service_name&gt;<span class="o">]</span>
+$ docker-compose up -d --scale &lt;service_name&gt;<span class="o">=</span><span class="m">2</span>
 $ docker-compose down
 </code></pre></td></tr></table>
 </div>
