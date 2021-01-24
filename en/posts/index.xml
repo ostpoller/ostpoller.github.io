@@ -14,13 +14,50 @@
     <managingEditor>philipp.westphal@gmx.net (Philipp Westphal)</managingEditor>
     <webMaster>philipp.westphal@gmx.net (Philipp Westphal)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 16 Jan 2021 15:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jan 2021 15:00:00 +0100</lastBuildDate>
     
         <atom:link href="https://ostpoller.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Docker Commands &amp; Configurations</title>
+        <link>https://ostpoller.github.io/en/posts/20210124_docker_cheatsheet/</link>
+        <pubDate>Sun, 24 Jan 2021 15:00:00 +0100</pubDate>
+        <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
+        <atom:modified>Sun, 24 Jan 2021 15:00:00 +0100</atom:modified>
+        <guid>https://ostpoller.github.io/en/posts/20210124_docker_cheatsheet/</guid>
+        <description>NOTE:
+This document is very much a live document and will get updated frequently. Docker Dockerfile 1 2 3 4 5 6 7 8  FROM&amp;lt;baseimage_name&amp;gt;:&amp;lt;baseimage_tag&amp;gt;ADD &amp;lt;hpath&amp;gt; &amp;lt;abs_cpath&amp;gt; # copy file/dir from abs. or rel. path on host to abs. path in container/imageWORKDIR&amp;lt;absolute_cpath&amp;gt; # create and enter a dir in container/imageCOPY &amp;lt;hpath&amp;gt; &amp;lt;rel_cpath&amp;gt; # copy file/dir from abs. or rel. path on host to rel. path in container/image (rel. to WORKDIR)ENV &amp;lt;envvar&amp;gt; # sets environment variable (can be set by command in docker-compose.</description>
+        
+        <dc:creator>Philipp Westphal</dc:creator>
+        <media:content url="https://ostpoller.github.io/images/appicons/docker.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>docker</category>
+            
+          
+            
+          
+        
+        
+          
+            
+              <category>cheatsheet</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
       
       <item>
         <title>Pubsub with Redis &amp; Redis-py</title>
