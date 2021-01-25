@@ -59,6 +59,43 @@ This document is very much a live document and will get updated frequently. Dock
         
       </item>
       
+      <item>
+        <title>Emacs Commands &amp; Configuration</title>
+        <link>https://ostpoller.github.io/en/posts/20210113_emacs/</link>
+        <pubDate>Wed, 13 Jan 2021 15:00:00 +0100</pubDate>
+        <author>philipp.westphal@gmx.net (Philipp Westphal)</author>
+        <atom:modified>Wed, 13 Jan 2021 15:00:00 +0100</atom:modified>
+        <guid>https://ostpoller.github.io/en/posts/20210113_emacs/</guid>
+        <description>NOTE:
+This document is very much a live document and will get updated frequently. Commands Files    Command Description     ctrl-x ctrl-f open file: find and open file   ctrl-x ctrl-s save file: save buffer in active window back to file on disk    Buffers    Command Description     ctrl-x b open buffer: open buffer in active window   ctrl-x k kill buffer: kill buffer and remove it from its window    Windows    Command Description     ctrl-x o switch window: activate another window (when frame is split in multiple windows        </description>
+        
+        <dc:creator>Philipp Westphal</dc:creator>
+        <media:content url="https://ostpoller.github.io/images/appicons/emacs.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>emacs</category>
+            
+          
+            
+          
+        
+        
+          
+            
+              <category>cheatsheet</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
 
     
   </channel>
